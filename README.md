@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://valentinchelaru.com/post/2022-02-16/airpods-gnome-appindicator.html" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/valechelaru/airpods_appindicator/73baa8ab18e6b527ebdd40d80028b66d997dc0e5/airpods_icon_alt.svg" alt="Airpods AppIndicator" width="200"></a>
+  <a href="https://valentinchelaru.com/post/2022-02-16/airpods-gnome-appindicator.html" target="_blank"><img src="https://raw.githubusercontent.com/valechelaru/airpods_appindicator/73baa8ab18e6b527ebdd40d80028b66d997dc0e5/airpods_icon_alt.svg" alt="Airpods AppIndicator" width="200"></a>
   <br>
   Airpods GNOME AppIndicator
   <br>
@@ -17,21 +17,29 @@
   <br>
 </h4>
 
+<h4 align="center"></h4>
 <h2 align="center">
   Support
   <br>
-  <a href="https://www.buymeacoffee.com/valechelaru" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.buymeacoffee.com/valechelaru" target="_blank">
     <img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" >
   </a>
+</h2>
+<h4 align="center"></h4>
+<h2 align="center">
   <br>
-  License
-  <h4 align="center">
-  MIT
-  </h4>
+  License: MIT
 </h2>
 
----
-> Find me here:
-> [valentinchelaru.com](https://www.valentinchelaru.com) &nbsp;&middot;&nbsp;
-> GitHub [@valechelaru](https://github.com/valechelaru) &nbsp;&middot;&nbsp;
-> Twitter [@_vale](https://twitter.com/_vale)
+<h4 align="center">
+  <br>
+  Find me here:
+  <br>
+  <a href="https://www.valentinchelaru.com">valentinchelaru.com</a>
+  <br>
+  Github:
+  <a href="https://github.com/valechelaru">@valechelaru</a>
+  <br>
+  Twitter:
+  <a href="https://twitter.com/_vale">@_vale</a>
+</h4>
