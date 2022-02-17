@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://valentinchelaru.com/post/2022-02-16/airpods-gnome-appindicator.html"><img src="https://raw.githubusercontent.com/valechelaru/airpods_appindicator/73baa8ab18e6b527ebdd40d80028b66d997dc0e5/airpods_icon_alt.svg" alt="Airpods AppIndicator" width="200" style="background-color:#131313;box-shadow: 0 0 40px #131313;"></a>
+  <a href="https://valentinchelaru.com/post/2022-02-16/airpods-gnome-appindicator.html"><img src="https://raw.githubusercontent.com/valechelaru/airpods_appindicator/73baa8ab18e6b527ebdd40d80028b66d997dc0e5/airpods_icon_alt.svg" alt="Airpods AppIndicator" width="200"></a>
   <br>
   Airpods GNOME AppIndicator
   <br>
