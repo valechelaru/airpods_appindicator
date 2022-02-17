@@ -16,8 +16,6 @@
   <img align="center" src="https://valentinchelaru.com/post/2022-02-16/airpods-appindicator.png" alt="Airpods AppIndicator in GNOME">
   <br>
 </h4>
-
-<h4 align="center"></h4>
 <h2 align="center">
   Support
   <br>
@@ -25,14 +23,11 @@
     <img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" >
   </a>
 </h2>
-<h4 align="center"></h4>
 <h2 align="center">
-  <br>
   License: MIT
 </h2>
-
+<br>
 <h4 align="center">
-  <br>
   Find me here:
   <br>
   <a href="https://www.valentinchelaru.com">valentinchelaru.com</a>
