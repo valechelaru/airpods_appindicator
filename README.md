@@ -8,7 +8,7 @@
 </h1>
 
 <h4 align="center">
-  Small little GNOME AppIndicator I build myself one afternoon to make my life easier. Using python and bash scripts with minimal dependencies.
+  Small little GNOME AppIndicator to make connecting Airpods to a Linux machine easier. Using python and bash scripts with minimal dependencies.
 </h4>
 
 <h4 align="center">
@@ -16,6 +16,25 @@
   <img align="center" src="https://valentinchelaru.com/post/2022-02-16/airpods-appindicator.png" alt="Airpods AppIndicator in GNOME">
   <br>
 </h4>
+
+<h2 align="center">
+  How to install
+</h2>
+
+```bash
+# Install the GTK3 dependency
+$ sudo apt install gir1.2-appindicator3
+
+# Clone the repo
+$ git clone git@github.com:valechelaru/airpods_appindicator.git
+
+# Go into the repository
+$ cd airpods_appindicator
+
+# Make the scripts executable
+$ chmod +x airpods_connect.sh airpods_disconnect.sh airpods-indicator.py
+```
+
 <h2 align="center">
   Support
   <br>
